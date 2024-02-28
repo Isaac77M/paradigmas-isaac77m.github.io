@@ -1,0 +1,28 @@
+body{
+	 font-family: Arial, sans-serif;
+	 text-align: canter;
+    }
+calculadora{
+	width: 200px;
+	margin: 0, auto;
+	border: 1px solid #ccc;
+	padding: 10px;
+}
+
+fila-botones{
+	display: flex;
+}
+input[type="button"]{
+	width: 100px;
+	height: 40px;
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+
+input[type="text"]{
+	width: 50%;
+	height: 30px;
+	font-size: 18px;
+	text-align: right;
+	margin-bottom: 10px;
+}
